@@ -3,7 +3,7 @@ import React from "react";
 
 const Header = () => {
     return (
-        <div className="h-full bg-[#5da5a4]">
+        <div className="h-full bg-[--dark-cyan]">
             <img
                 className="w-full"
                 src="images/bg-header-desktop.svg"

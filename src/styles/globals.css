@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+:root {
+    --light-cyan: #eef8f7; /* Example primary color */
+   --dark-cyan: #5ba4a3; /* Example secondary color */
+   --dark-gray: #828b8c; /* Example secondary color */
+   --dark-green: #283939; /* Example secondary color */
+  }
